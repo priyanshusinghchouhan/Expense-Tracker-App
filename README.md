@@ -16,6 +16,7 @@ Live at :- https://priyanshusinghchouhan.github.io/Expense-Tracker-App/
 - 📊 Auto-calculated Total Expenses, Income, and Balance
 - ⚠️ Input validations and user-friendly warnings
 - 🌗 Clean UI with modern table layout
+- 🌙 Dark/Light Mode
 
 ---
 
