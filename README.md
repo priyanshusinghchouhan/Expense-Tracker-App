@@ -3,7 +3,7 @@
 A simple yet powerful web app to manage and track your daily expenses with features like search, category filtering, total balance calculation, and edit/delete functionality.
 
 ## 🔗 Live Demo
-
+Live at :- https://priyanshusinghchouhan.github.io/Expense-Tracker-App/
 
 ---
 
